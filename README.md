@@ -1,12 +1,12 @@
 # Wikimedia Commons Media Downloader
 
-**Contributors:** yourusername  
+**Contributors:** KAMINOWEB INC  
 **Tags:** media, wikimedia, downloader, images, media library  
 **Requires at least:** 5.0  
 **Tested up to:** 6.2  
 **Stable tag:** 1.0  
-**License:** GPLv2 or later  
-**License URI:** [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)
+**License:** GNU General Public License v3.0  
+**License URI:** [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
 
 Search and download Wikimedia Commons images directly to your WordPress media library with refined search options for orientation and size.
 
