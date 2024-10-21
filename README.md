@@ -27,7 +27,7 @@ Wikimedia Commons Media Downloader allows you to search for images on Wikimedia 
 ## Installation
 
 1. **Upload the Plugin:**
-   - Upload the `wikimedia-commons-media-downloader` folder to the `/wp-content/plugins/` directory.
+   - Upload the `WikimediaCommonsMediaDownloader` folder to the `/wp-content/plugins/` directory.
 
 2. **Activate the Plugin:**
    - Activate the plugin through the 'Plugins' menu in WordPress.
